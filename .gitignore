@@ -177,3 +177,4 @@ pyrightconfig.json
 
 credentials.json
 token.json
+token.pickle
