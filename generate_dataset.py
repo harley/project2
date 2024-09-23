@@ -82,7 +82,7 @@ else:
 
 # create the dataset in Langfuse
 
-import langfuse
+from langfuse import Langfuse
 
 langfuse = Langfuse()
 
